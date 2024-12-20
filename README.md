@@ -8,12 +8,16 @@
 
 [https://smart-ram-utilization.netlify.app/](https://smart-ram-utilization.netlify.app/)
 
+<br/>
+
 <h2>📸 Project Screenshots </h2>
-![image](https://github.com/user-attachments/assets/607ec80f-0b3c-4167-8262-da53091f6af2)
-![image](https://github.com/user-attachments/assets/7f885953-bdda-432b-93be-420b88635697)
-![image](https://github.com/user-attachments/assets/6242156f-f3ae-4fef-8948-db59593f9b07)
-![image](https://github.com/user-attachments/assets/69f2037a-5b62-4552-98db-9e08cd9aed16)
-![image](https://github.com/user-attachments/assets/62a0e688-8cfb-4b54-b63d-11f1c0a94b1b)
+
+<p align="center"><img src="https://github.com/user-attachments/assets/607ec80f-0b3c-4167-8262-da53091f6af2" alt="image1"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/7f885953-bdda-432b-93be-420b88635697" alt="image2"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/6242156f-f3ae-4fef-8948-db59593f9b07" alt="image3"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/69f2037a-5b62-4552-98db-9e08cd9aed16" alt="image4"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/62a0e688-8cfb-4b54-b63d-11f1c0a94b1b" alt="image5"></p>
+
   
   
 <h2>🧐 Features</h2>
