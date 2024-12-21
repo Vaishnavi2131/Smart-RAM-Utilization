@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Smart RAM Utilization</h1>
 
-<p align="center"><img src="https://socialify.git.ci/uncagedspirit/Smart-RAM-Utilization/image?custom_description=enhancing+the+functionality+of+SysMain+to+improve+application+loading+times+and+reduce+resource+usage%2C+eliminating+the+need+to+disable+the+service.&amp;description=1&amp;font=Rokkitt&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit+Board&amp;pulls=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/Vaishnavi2131/Smart-RAM-Utilization/image?custom_description=enhancing+the+functionality+of+SysMain+to+improve+application+loading+times+and+reduce+resource+usage%2C+eliminating+the+need+to+disable+the+service.&amp;description=1&amp;font=Rokkitt&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit+Board&amp;pulls=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
 <p id="description">enhancing the functionality of SysMain to improve application loading times and reduce resource usage eliminating the need to disable the service.</p>
 
@@ -65,9 +65,4 @@ Technologies used in the project:
 *   React.js
 *   Node.js
 *   Git/GitHub
-
-<h2>💖Like my work?</h2>
-
-For questions, issues, or assistance with this project, please reach out using the following channels:  
-[https://x.com/uncagedspirit_](https://x.com/uncagedspirit_)
 
